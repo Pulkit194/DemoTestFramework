@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium_Assignment_Framework" duration-ms="135614" started-at="2019-05-21T10:16:34Z" finished-at="2019-05-21T10:18:50Z">
+    <groups>
+    </groups>
+    <test name="Selenium_Assignment_Framework" duration-ms="135614" started-at="2019-05-21T10:16:34Z" finished-at="2019-05-21T10:18:50Z">
+      <class name="com.testFramework.scripts.Selenium_Assignment_Framework">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="setUp" is-config="true" duration-ms="16654" started-at="2019-05-21T10:16:34Z" finished-at="2019-05-21T10:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySingleSelect()[pri:1, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="verifySingleSelect" duration-ms="12609" started-at="2019-05-21T10:16:51Z" finished-at="2019-05-21T10:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySingleSelect -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="tearDown" is-config="true" duration-ms="903" started-at="2019-05-21T10:17:04Z" finished-at="2019-05-21T10:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="setUp" is-config="true" duration-ms="13388" started-at="2019-05-21T10:17:04Z" finished-at="2019-05-21T10:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMultipleSelect()[pri:2, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="verifyMultipleSelect" duration-ms="2511" started-at="2019-05-21T10:17:18Z" depends-on-methods="com.testFramework.scripts.Selenium_Assignment_Framework.verifySingleSelect" finished-at="2019-05-21T10:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultipleSelect -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="tearDown" is-config="true" duration-ms="892" started-at="2019-05-21T10:17:20Z" finished-at="2019-05-21T10:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="setUp" is-config="true" duration-ms="10031" started-at="2019-05-21T10:17:21Z" finished-at="2019-05-21T10:17:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyJavaScriptAlertOK()[pri:3, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="verifyJavaScriptAlertOK" duration-ms="7510" started-at="2019-05-21T10:17:31Z" finished-at="2019-05-21T10:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJavaScriptAlertOK -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="tearDown" is-config="true" duration-ms="822" started-at="2019-05-21T10:17:39Z" finished-at="2019-05-21T10:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="setUp" is-config="true" duration-ms="14478" started-at="2019-05-21T10:17:40Z" finished-at="2019-05-21T10:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyJavaScriptConfirmBoxCancel()[pri:4, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="verifyJavaScriptConfirmBoxCancel" duration-ms="8162" started-at="2019-05-21T10:17:54Z" finished-at="2019-05-21T10:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJavaScriptConfirmBoxCancel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="tearDown" is-config="true" duration-ms="930" started-at="2019-05-21T10:18:02Z" finished-at="2019-05-21T10:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="setUp" is-config="true" duration-ms="7406" started-at="2019-05-21T10:18:03Z" finished-at="2019-05-21T10:18:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyJavaScriptAlertSendData()[pri:5, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="verifyJavaScriptAlertSendData" duration-ms="11708" started-at="2019-05-21T10:18:11Z" finished-at="2019-05-21T10:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJavaScriptAlertSendData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="tearDown" is-config="true" duration-ms="838" started-at="2019-05-21T10:18:22Z" finished-at="2019-05-21T10:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="setUp" is-config="true" duration-ms="19788" started-at="2019-05-21T10:18:23Z" finished-at="2019-05-21T10:18:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBootstrapModal()[pri:6, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="verifyBootstrapModal" duration-ms="5907" started-at="2019-05-21T10:18:43Z" finished-at="2019-05-21T10:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBootstrapModal -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testFramework.scripts.Selenium_Assignment_Framework@458c1321]" name="tearDown" is-config="true" duration-ms="1006" started-at="2019-05-21T10:18:49Z" finished-at="2019-05-21T10:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testFramework.scripts.Selenium_Assignment_Framework -->
+    </test> <!-- Selenium_Assignment_Framework -->
+  </suite> <!-- Selenium_Assignment_Framework -->
+</testng-results>
